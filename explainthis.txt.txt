@@ -1,1 +1,4 @@
+
 we re practising git today.
+
+The git session is really interesting.
